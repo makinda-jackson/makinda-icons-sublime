@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/python</string>
+        <string>file_type_python</string>
     </dict>
     <key>uuid</key>
     <string>4CC6BA0F-CB3D-5359-9321-A2D6596B384E</string>

@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/yaml</string>
+        <string>file_type_yaml</string>
     </dict>
     <key>uuid</key>
     <string>6E8C6DAD-B398-5E30-90AC-71282B5FEA49</string>

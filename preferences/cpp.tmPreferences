@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/cpp</string>
+        <string>file_type_cpp</string>
     </dict>
     <key>uuid</key>
     <string>22CE851D-0B8C-5844-9164-975A9FB09705</string>

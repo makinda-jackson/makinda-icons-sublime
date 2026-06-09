@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/java</string>
+        <string>file_type_java</string>
     </dict>
     <key>uuid</key>
     <string>BE4F421F-F0D5-5BDF-9689-58463B64CD34</string>

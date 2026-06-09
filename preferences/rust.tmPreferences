@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/rust</string>
+        <string>file_type_rust</string>
     </dict>
     <key>uuid</key>
     <string>50159FE9-7AB6-5711-9B15-EBBB83D629F6</string>

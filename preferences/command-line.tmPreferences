@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/command-line</string>
+        <string>file_type_command-line</string>
     </dict>
     <key>uuid</key>
     <string>63C15499-8993-54B9-94A7-5AE4C50731AE</string>

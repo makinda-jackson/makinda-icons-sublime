@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/ruby</string>
+        <string>file_type_ruby</string>
     </dict>
     <key>uuid</key>
     <string>504896E9-7AE1-515F-9CF9-EABBCD6565B4</string>

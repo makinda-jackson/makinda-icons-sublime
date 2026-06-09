@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/database</string>
+        <string>file_type_database</string>
     </dict>
     <key>uuid</key>
     <string>18B17B5A-9F11-54FA-9729-73FC4ADFECBB</string>

@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/xml</string>
+        <string>file_type_xml</string>
     </dict>
     <key>uuid</key>
     <string>81112C1D-40A6-5AAC-9658-84B4DA5A50FD</string>

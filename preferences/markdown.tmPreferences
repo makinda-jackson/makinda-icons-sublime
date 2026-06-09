@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/markdown</string>
+        <string>file_type_markdown</string>
     </dict>
     <key>uuid</key>
     <string>EBFF211A-D317-59D2-99DF-3194B0ADD483</string>

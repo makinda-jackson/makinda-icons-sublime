@@ -9,7 +9,7 @@
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>Packages/Makinda Icons/icons/go</string>
+        <string>file_type_go</string>
     </dict>
     <key>uuid</key>
     <string>B39E31FB-5BC9-5695-9F15-A41CF7032742</string>
